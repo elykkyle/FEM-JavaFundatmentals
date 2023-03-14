@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b8f0ac3-6e9b-4314-a5a3-851929a393dc" name="Changes" comment="objects">
-      <change afterPath="$PROJECT_DIR$/src/main/java/arrays/LotteryTicket.java" afterDir="false" />
+    <list default="true" id="5b8f0ac3-6e9b-4314-a5a3-851929a393dc" name="Changes" comment="arrays">
+      <change afterPath="$PROJECT_DIR$/src/main/java/strings/TextProcessor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,14 +95,22 @@
       <option name="project" value="LOCAL" />
       <updated>1678820351284</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="arrays">
+      <created>1678823165539</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678823165539</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="basics, decision structures and loops" />
     <MESSAGE value="methods" />
     <MESSAGE value="objects" />
-    <option name="LAST_COMMIT_MESSAGE" value="objects" />
+    <MESSAGE value="arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="arrays" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
