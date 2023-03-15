@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b8f0ac3-6e9b-4314-a5a3-851929a393dc" name="Changes" comment="Abstraction">
-      <change afterPath="$PROJECT_DIR$/src/main/java/interfaces/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interfaces/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interfaces/Product.java" afterDir="false" />
+    <list default="true" id="5b8f0ac3-6e9b-4314-a5a3-851929a393dc" name="Changes" comment="interfaces">
+      <change afterPath="$PROJECT_DIR$/src/main/java/data_structures/CollectionsDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -133,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678899335255</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="interfaces">
+      <created>1678903780692</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1678903780692</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -156,7 +161,8 @@
     <MESSAGE value="inheritance" />
     <MESSAGE value="polymorphism" />
     <MESSAGE value="Abstraction" />
-    <option name="LAST_COMMIT_MESSAGE" value="Abstraction" />
+    <MESSAGE value="interfaces" />
+    <option name="LAST_COMMIT_MESSAGE" value="interfaces" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
