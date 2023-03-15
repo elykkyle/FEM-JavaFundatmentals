@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b8f0ac3-6e9b-4314-a5a3-851929a393dc" name="Changes" comment="iterators">
-      <change afterPath="$PROJECT_DIR$/src/main/java/streams/StreamOperations.java" afterDir="false" />
+    <list default="true" id="5b8f0ac3-6e9b-4314-a5a3-851929a393dc" name="Changes" comment="stream operations">
+      <change afterPath="$PROJECT_DIR$/files/numbers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exceptions/ExceptionHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exceptions/MultipleExceptionHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exceptions/NegativeInputException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exceptions/ThrowingExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exceptions/TryWithResources.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +61,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="exceptions" />
       <recent name="objects" />
       <recent name="decision_structure" />
     </key>
@@ -152,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678909063099</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="stream operations">
+      <created>1678913161948</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1678913161948</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -178,7 +192,8 @@
     <MESSAGE value="interfaces" />
     <MESSAGE value="data structures" />
     <MESSAGE value="iterators" />
-    <option name="LAST_COMMIT_MESSAGE" value="iterators" />
+    <MESSAGE value="stream operations" />
+    <option name="LAST_COMMIT_MESSAGE" value="stream operations" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
